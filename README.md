@@ -1,5 +1,7 @@
 # 365Books
-**Unlocking Growth Opportunities: The Case for an E-commerce Bookstore Platform
+Unlocking Growth Opportunities: The Case for an E-commerce Bookstore Platform
+
+
 Introduction:
 At our analytics consulting firm, we have conducted a thorough feasibility analysis for opening an online bookstore platform. Our evaluation was driven by market dynamics and the increasing demand for home delivery services, which was further amplified by the impact of COVID-19. Our objective was to delve into the data and market trends from 2020 to provide valuable insights regarding the potential benefits of establishing an online platform.
 
